@@ -1,0 +1,4 @@
+config.properties
+build/
+dist/
+nbproject/private/
